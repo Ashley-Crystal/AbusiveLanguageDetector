@@ -30,6 +30,9 @@ Distribution Analysis: Plotted histograms to show tweet length distribution.
 Scatter Plots: Analyzed the relationship between word count and unique word count.
 Abusive Content Detection: Flagged tweets containing abusive words and visualized the distribution of abusive vs. non-abusive tweets.
 
+![image](https://github.com/user-attachments/assets/1752aa6f-2c11-4a14-bc4a-930846b282d1)
+
+
 Hate Speech Detection:
 Custom Dataset: Created a list of abusive terms for detecting hate speech in tweets.
 Text Matching: Implemented a function to check for the presence of these terms in the tweets, marking them accordingly.
@@ -39,3 +42,4 @@ Text Matching: Implemented a function to check for the presence of these terms i
 Tools and Techniques:
 Python Libraries: pandas, nltk, sklearn, matplotlib
 Techniques: Text preprocessing, TF-IDF vectorization, data visualization, custom keyword matching
+Dataset Source : Ebuka456
